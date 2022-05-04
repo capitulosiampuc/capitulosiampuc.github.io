@@ -1,7 +1,7 @@
-title: Capítulo ACM PUC
+title: Capítulo SIAM-PUC
 description: > # this means to ignore newlines until "baseurl:"
-  Página temporal del Capítulo ACM PUC
-github_username: Hernan4444
+  Material y presentación del Capítulo
+github_username: capitulosiampuc
 
 # Build settings
 markdown: kramdown
@@ -17,8 +17,8 @@ defaults:
 theme: jekyll-theme-minimal
 
 # Poner nombre del tema,cantidad de imagenes
-vida_universitaria:
-  - DCCerro,5
-  - Tarreo,12
+#vida_universitaria:
+  #- DCCerro,5
+  #- Tarreo,12
   # - torneo-programacion,16
 
