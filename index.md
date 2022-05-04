@@ -9,17 +9,17 @@ title: Acerca del Capítulo
 
 **Mail**: capitulosiampuc@uc.cl
 
-**Instagram**. [https://www.instagram.com/capitulosiampuc/)
+**Instagram**: [@capitulosiampuc](https://www.instagram.com/capitulosiampuc/)
 
-**Sitio web**. [https://sites.google.com/uc.cl/capitulosiampuc/home)
+**Sitio web**: [Google site SIAM-PUC](https://sites.google.com/uc.cl/capitulosiampuc/home)
 
-**Twitter**. [https://twitter.com/capitulosiampuc) 
+**Twitter**: [@capitulosiampuc](https://twitter.com/capitulosiampuc) 
 
-**Discord**. [https://discord.gg/5g4F8pUXcw) 
+**Discord**: [Server SIAM-PUC](https://discord.gg/5g4F8pUXcw) 
 
-**Sitio ENIM 2022**. [https://enim2022uc.cl/) 
+**Sitio ENIM 2022**: [ENIM 2022 UC](https://enim2022uc.cl/) 
 
-**LinkedIn**. [https://www.linkedin.com/company/cap%C3%ADtulo-siam-puc/about/ )
+**LinkedIn**: [LinkedIn SIAM-PUC](https://www.linkedin.com/company/cap%C3%ADtulo-siam-puc/about/)
 
 ## Directiva 2021-2022
 
