@@ -1,27 +1,35 @@
 ---
 layout: default
-title: Acerca de nosotros
+title: Acerca del Capítulo
 ---
 
-# Capítulo ACM PUC
-![](/assets/capitulo_fondo.jpg)
+# Capítulo SIAM-PUC
+![](/assets/capitulo_fondo.jpeg)
 
 
-**Facebook**: [https://www.facebook.com/acm.puc/](https://www.facebook.com/acm.puc/)
+**Mail**: capitulosiampuc@uc.cl
 
-**Mail**: helloworld@ing.puc.cl
+**Instagram**. [https://www.instagram.com/capitulosiampuc/)
 
-**Grupo de Telegram**. [https://t.me/joinchat/BaYzAD5toNUmDffhGeCdJA](https://t.me/joinchat/BaYzAD5toNUmDffhGeCdJA) 
+**Sitio web**. [https://sites.google.com/uc.cl/capitulosiampuc/home)
 
-## Directiva
+**Twitter**. [https://twitter.com/capitulosiampuc) 
 
-**Presidente**: Nicolás Berríos
+**Discord**. [https://discord.gg/5g4F8pUXcw) 
 
-**Vice-presidente**: Orlando Avendaño
+**Sitio ENIM 2022**. [https://enim2022uc.cl/) 
 
-**Secretario**: Elías Sabja
+**LinkedIn**. [https://www.linkedin.com/company/cap%C3%ADtulo-siam-puc/about/ )
 
-**Tesorero**: Lucas Muñoz
+## Directiva 2021-2022
+
+**Presidencia**: Ignacio Contreras
+
+**Vicepresidencia**: Melanie Pacheco
+
+**Secretaría**: Francesca Anfossy
+
+**Tesorería**: Eduardo Vásquez
 
 
 
