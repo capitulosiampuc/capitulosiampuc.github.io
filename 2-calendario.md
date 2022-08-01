@@ -18,10 +18,20 @@ En caso de querer compartir tu material o señalar cualquier cosa, contacta al C
 
 [IMT2100 Aplicaciones de Analisis Funcional y Ecuaciones Diferenciales Parciales en Ingenieria](https://drive.google.com/drive/folders/1m1yFFt6di7954az7_jmZm2gixLDHZnMW?usp=sharing)
 
+[IIC3242 Complejidad Computacional](https://drive.google.com/drive/folders/1l6n2XNU-5ptc0X-riPzjY_-GFpR7yxSf?usp=sharing)
+
+[IMT3120 Fundamentos Matemáticos para Ciencia de Datos](https://drive.google.com/drive/folders/1TsvilpkriH9cpQYpxlB7Klsk66IYm-FN?usp=sharing)
+
 [IIC2613 Inteligencia Artificial](https://drive.google.com/drive/folders/16ck0eFnbILCO2mrV0NIkQW1FUacDxZXL?usp=sharing)
 
 [IIC2213 Lógica para Ciencias de la Computación](https://drive.google.com/drive/folders/1zxY6q6KgVgPL1pIO3L-DMbChwQyFmNog?usp=sharing)
 
 [IIC1253 Matemáticas Discretas](https://drive.google.com/drive/folders/1so-SFLztbI1SmRf6CcmyP2RkKRaNOuXp?usp=sharing)
 
+[ICS3153 Optimización Avanzada](https://drive.google.com/drive/folders/1k-EW2VZlBUXeo3m7CanfkSCTzPHuNxnS?usp=sharing)
+
 [IMT2117 Probabilidades y Algoritmos](https://drive.google.com/drive/folders/1N6U7UXw4CLODd1L2IOAHXhMvX0EY9eFX?usp=sharing)
+
+[ICS3723 Simulación](https://drive.google.com/drive/folders/1TqUqXqL1JLLan9yWSlRrwRbqKzo5oMz4?usp=sharing)
+
+[IMT3810 Tópicos en Análisis Numérico](https://drive.google.com/drive/folders/1mzfZIDoDLN0VB7_4auUZ570GlmxChaJM?usp=sharing)
