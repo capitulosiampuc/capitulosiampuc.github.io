@@ -1,10 +1,18 @@
 ---
 layout: default
-title: Cursos
-permalink: /cursos/
+title: Cursos no UC
+permalink: /extrauc/
 ---
-# Cursos
+# Cursos no UC
 
-Si buscas material, pruebas pasadas o libros de los cursos, el siguiente [drive](https://drive.google.com/drive/folders/0B04ryZ6JtcjwOWpoR1Q4QVdCYUU?resourcekey=0-AavJEVx3F73-r2dGpOcJCg) ha sido creado para almacenar todo esto. Es necesario estar logeado con una cuenta UC para acceder.  Si deseas aportar con más archivos, contactar a Hernán Valdivieso (@HernyV en telegram).
+En caso de querer compartir tu material o señalar cualquier cosa, contacta al Capítulo a través de cualquier medio indicado en la Home page!
 
-<iframe src="https://drive.google.com/u/0/embeddedfolderview?id=0B04ryZ6JtcjwOWpoR1Q4QVdCYUU#list" width="100%" height="600" ></iframe>
+# Doble Titulo
+
+[Ecole Polytechnique](https://drive.google.com/drive/folders/1UL6dso41BkWyhOWBYdNyYjtEoMJ0Do8j?usp=sharing)
+
+[Politecnico di Milano]()
+
+# Cursos de otras universidades chilenas
+
+[Optimizacion Combinatorial U de Chile](https://drive.google.com/drive/folders/16n-B8rIjkykPbCIXVqrGRG9RYcb00JHN?usp=sharing)
