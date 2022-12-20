@@ -25,11 +25,11 @@ title: Acerca del Capítulo
 
 **Presidencia**: Ignacio Contreras
 
-**Vicepresidencia**: Melanie Pacheco
+**Vicepresidencia**: Francisca Muñoz
 
-**Secretaría**: Francesca Anfossy
+**Comunicaciones**: Rocío Ladrón de Guevara
 
-**Tesorería**: Eduardo Vásquez
+**Tesorería**: Diego Vera
 
 
 
