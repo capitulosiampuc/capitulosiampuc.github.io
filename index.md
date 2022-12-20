@@ -21,7 +21,7 @@ title: Acerca del Capítulo
 
 **LinkedIn**: [LinkedIn SIAM-PUC](https://www.linkedin.com/company/cap%C3%ADtulo-siam-puc/about/)
 
-## Directiva 2021-2022
+## Directiva 2022-2023
 
 **Presidencia**: Ignacio Contreras
 
